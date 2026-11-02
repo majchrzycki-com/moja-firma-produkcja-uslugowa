@@ -2,7 +2,7 @@
 
 **Agent zapytań ofertowych dla polskiej firmy: firma produkcyjno-usługowa.** Czyta zapytanie ofertowe z PDF, znajduje podobne zamknięte projekty z ich prawdziwą marżą, liczy roboczogodziny i sprawdza moce zakładu, a na końcu proponuje, czy wyceniać i na jakich warunkach.
 
-Pakiet branżowy paczki [moja-firma](https://github.com/majchrzycki-com/moja-firma). Procedura w formacie [Agent Skills](https://agentskills.io/specification) (`SKILL.md`) działa w Claude, ChatGPT i Codex, Microsoft 365 Copilot, Gemini oraz OpenClaw.
+Pakiet branżowy paczki [moja-firma](https://github.com/majchrzycki-com/moja-firma). Procedura w formacie [Agent Skills](https://agentskills.io/specification) (`SKILL.md`) działa w Anthropic Claude, OpenAI ChatGPT i OpenAI Codex, Microsoft 365 Copilot, Google Gemini oraz OpenClaw.
 
 ## Czego agent nie zrobi
 
@@ -26,7 +26,7 @@ Mamy nowe zapytanie. Przeprowadź analizę według instrukcji projektu, licząc 
 
 ## Instalacja
 
-### Claude Code
+### Anthropic Claude Code
 
 ```text
 /plugin marketplace add majchrzycki-com/moja-firma
@@ -39,14 +39,14 @@ Mamy nowe zapytanie. Przeprowadź analizę według instrukcji projektu, licząc 
 node scripts/build.mjs
 ```
 
-Skrypt tworzy `dist/skills/` dla Claude, Codex, OpenClaw i Copilot Cowork oraz `dist/instrukcje/` z tekstem do wklejenia w agencie Microsoft 365 Copilot, Gemie albo projekcie ChatGPT. Szczegóły instalacji w każdym narzędziu: [README rdzenia moja-firma](https://github.com/majchrzycki-com/moja-firma#instalacja).
+Skrypt tworzy `dist/skills/` dla Anthropic Claude, OpenAI Codex, OpenClaw i Microsoft 365 Copilot Cowork oraz `dist/instrukcje/` z tekstem do wklejenia w agencie Microsoft 365 Copilot, Gemie Google Gemini albo projekcie OpenAI ChatGPT. Szczegóły instalacji w każdym narzędziu: [README rdzenia moja-firma](https://github.com/majchrzycki-com/moja-firma#instalacja).
 
 ## Ten sam agent krok po kroku
 
-- [Agent zapytań ofertowych w Claude](https://majchrzycki.com/blog/agent-zapytan-w-claude-krok-po-kroku?utm_source=github&utm_medium=referral&utm_campaign=moja-firma&utm_content=zapytanie-ofertowe)
+- [Agent zapytań ofertowych w Anthropic Claude](https://majchrzycki.com/blog/agent-zapytan-w-claude-krok-po-kroku?utm_source=github&utm_medium=referral&utm_campaign=moja-firma&utm_content=zapytanie-ofertowe)
 - [Agent zapytań ofertowych w Microsoft 365 Copilot](https://majchrzycki.com/blog/agent-zapytan-w-microsoft-365-copilot-krok-po-kroku?utm_source=github&utm_medium=referral&utm_campaign=moja-firma&utm_content=zapytanie-ofertowe)
-- [Agent zapytań ofertowych w ChatGPT](https://majchrzycki.com/blog/agent-zapytan-w-chatgpt-krok-po-kroku?utm_source=github&utm_medium=referral&utm_campaign=moja-firma&utm_content=zapytanie-ofertowe)
-- [Agent zapytań ofertowych w Gemini](https://majchrzycki.com/blog/agent-zapytan-w-gemini-krok-po-kroku?utm_source=github&utm_medium=referral&utm_campaign=moja-firma&utm_content=zapytanie-ofertowe)
+- [Agent zapytań ofertowych w OpenAI ChatGPT](https://majchrzycki.com/blog/agent-zapytan-w-chatgpt-krok-po-kroku?utm_source=github&utm_medium=referral&utm_campaign=moja-firma&utm_content=zapytanie-ofertowe)
+- [Agent zapytań ofertowych w Google Gemini](https://majchrzycki.com/blog/agent-zapytan-w-gemini-krok-po-kroku?utm_source=github&utm_medium=referral&utm_campaign=moja-firma&utm_content=zapytanie-ofertowe)
 
 Gdzie ten agent mieści się w całej firmie i jakich jeszcze agentów potrzebuje firma produkcyjno-usługowa: [darmowy poradnik branżowy](https://majchrzycki.com/transformacja-agenci-ai/firma-produkcyjno-uslugowa?utm_source=github&utm_medium=referral&utm_campaign=moja-firma&utm_content=zapytanie-ofertowe#pobierz).
 
