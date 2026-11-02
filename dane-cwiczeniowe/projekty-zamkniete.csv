@@ -1,0 +1,25 @@
+﻿nr_projektu;rok;klient;typ_konstrukcji;gatunek_stali;masa_t;zabezpieczenie;montaz_u_klienta;wartosc_oferty_pln;koszt_planowany_pln;koszt_rzeczywisty_pln;rbh_ciecie;rbh_spawanie;rbh_montaz;termin_platnosci_dni;dni_zwloki_platnosci;zmiany_zakresu;uwagi
+P-2025-001;2025;Agro-Mel sp. z o.o.;wiata magazynowa;S355;34.0;ocynk ogniowy;tak;612000;520000;571000;140;780;520;60;12;2;"Dwie zmiany po zamówieniu stali; dopłata klienta tylko za jedną."
+P-2025-002;2025;Formex S.A.;hala produkcyjna;S355;86.0;malowanie;tak;1390000;1180000;1236000;330;1820;1150;45;0;1;
+P-2025-003;2025;Logipak sp. z o.o.;antresola magazynowa;S235;12.5;malowanie;nie;168000;139000;141000;55;300;0;30;0;0;
+P-2024-004;2024;Drewbud sp. z o.o.;wiata magazynowa;S355;41.0;ocynk ogniowy;tak;738000;627000;690000;170;930;640;60;35;3;"Ocynkownia przesunęła termin o 9 dni; kara umowna częściowo uznana."
+P-2025-005;2025;Mecha-Tech sp. z o.o.;rama maszyny;S355;6.2;malowanie;nie;124000;98000;96500;40;210;0;30;0;0;
+P-2024-006;2024;Browar Pod Lipą sp. z o.o.;pomost technologiczny;S235;9.8;ocynk ogniowy;tak;197000;163000;171000;48;240;160;30;5;1;
+P-2024-007;2024;Trans-Pol sp. z o.o.;hala magazynowa;S235;52.0;malowanie;tak;820000;700000;705000;210;1100;760;45;0;0;
+P-2025-008;2025;ChemPark S.A.;estakada rurociągowa;S355;28.0;ocynk ogniowy;tak;590000;496000;552000;120;700;480;60;20;2;Brak dostępu dźwigu pierwszego dnia montażu.
+P-2025-009;2025;Sadownicza Grupa Producentów Jabłko sp. z o.o.;wiata magazynowa;S355;29.5;ocynk ogniowy;tak;531000;451000;463000;118;650;430;45;0;0;
+P-2025-010;2025;Biuro-Plan sp. z o.o.;antresola biurowa;S235;8.0;malowanie;nie;121000;101000;99000;36;190;0;30;0;0;
+P-2024-011;2024;EkoWoda sp. z o.o.;zbiornik – konstrukcja wsporcza;S355;15.0;malowanie;tak;289000;240000;262000;66;380;210;60;14;1;
+P-2024-012;2024;Metal-Serwis Holding S.A.;hala produkcyjna;S355;112.0;ocynk ogniowy;tak;1980000;1690000;1910000;430;2400;1560;90;41;4;Cztery zmiany zakresu, dwie bez aneksu. Najgorsza marża w historii działu.
+P-2024-013;2024;Mecha-Tech sp. z o.o.;rama maszyny;S355;4.1;malowanie;nie;88000;69000;71000;28;150;0;30;0;0;
+P-2025-014;2025;Gmina Przykładowo;wiata rowerowa;S235;3.2;ocynk ogniowy;tak;64000;52000;58500;16;90;70;14;0;1;
+P-2025-015;2025;Logipak sp. z o.o.;hala magazynowa;S355;47.0;ocynk ogniowy;tak;812000;690000;701000;190;990;700;60;0;1;Hala, nie wiata: ściany osłonowe z płyty warstwowej po stronie podwykonawcy.
+P-2025-016;2025;Formex S.A.;pomost technologiczny;S355;11.0;malowanie;nie;176000;145000;152000;50;260;0;30;0;0;
+P-2024-017;2024;Rafin-Chem sp. z o.o.;estakada rurociągowa;S235;19.0;malowanie;tak;355000;300000;298000;82;450;320;45;0;0;
+P-2025-018;2025;Drewbud sp. z o.o.;wiata magazynowa;S235;22.0;malowanie;tak;371000;315000;322000;92;500;350;30;0;0;
+P-2024-019;2024;Logipak sp. z o.o.;antresola magazynowa;S355;18.0;ocynk ogniowy;nie;262000;220000;231000;74;410;0;30;0;1;
+P-2025-020;2025;Plast-Form sp. z o.o.;hala produkcyjna;S355;64.0;malowanie;tak;1050000;890000;960000;260;1400;920;60;18;2;
+P-2025-021;2025;EkoWoda sp. z o.o.;zbiornik – konstrukcja wsporcza;S235;7.5;malowanie;nie;118000;97000;95000;32;170;0;30;0;0;
+P-2024-022;2024;Agro-Mel sp. z o.o.;wiata magazynowa;S355;38.5;ocynk ogniowy;nie;498000;423000;431000;160;880;0;45;0;0;Dostawa bez montażu — montaż po stronie klienta.
+P-2025-023;2025;Browar Pod Lipą sp. z o.o.;pomost technologiczny;S235;5.5;ocynk ogniowy;tak;112000;92000;97000;26;130;90;30;0;0;
+P-2025-024;2025;Robo-Line sp. z o.o.;rama maszyny;S355;9.0;malowanie;nie;158000;128000;126000;44;240;0;30;0;0;

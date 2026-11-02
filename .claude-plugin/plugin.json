@@ -1,0 +1,19 @@
+{
+  "name": "moja-firma-produkcja-uslugowa",
+  "version": "0.1.0",
+  "description": "Agent zapytań ofertowych dla polskiej firmy (firma produkcyjno-usługowa). Czyta zapytanie ofertowe z PDF, znajduje podobne zamknięte projekty z ich prawdziwą marżą, liczy roboczogodziny i sprawdza moce zakładu, a na końcu proponuje, czy wyceniać i na jakich warunkach.",
+  "author": {
+    "name": "Krzysztof Majchrzycki",
+    "url": "https://majchrzycki.com"
+  },
+  "homepage": "https://majchrzycki.com/blog/agent-zapytan-w-claude-krok-po-kroku?utm_source=github&utm_medium=referral&utm_campaign=moja-firma&utm_content=zapytanie-ofertowe",
+  "repository": "https://github.com/majchrzycki-com/moja-firma-produkcja-uslugowa",
+  "license": "MIT",
+  "keywords": [
+    "msp",
+    "polska",
+    "zapytanie-ofertowe",
+    "agent-skills",
+    "skill-md"
+  ]
+}
