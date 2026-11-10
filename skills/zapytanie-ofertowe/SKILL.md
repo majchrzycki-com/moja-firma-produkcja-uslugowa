@@ -1,6 +1,6 @@
 ---
 name: zapytanie-ofertowe
-description: Ocenia zapytanie ofertowe w firmie produkcyjno-usługowej, np. konstrukcje stalowe na zamówienie (PDF): wypisuje wymagania i braki, znajduje podobne zamknięte projekty, porównuje marżę ofertową z powykonawczą, liczy normy roboczogodzin, sprawdza wolne moce gniazd i proponuje „wyceniać”, „wyceniać pod warunkami” albo „nie wyceniać”. Użyj, gdy przychodzi zapytanie ofertowe lub przetarg i trzeba zdecydować, czy i na jakich warunkach wyceniać.
+description: "Ocenia zapytanie ofertowe w firmie produkcyjno-usługowej, np. konstrukcje stalowe na zamówienie (PDF): wypisuje wymagania i braki, znajduje podobne zamknięte projekty, porównuje marżę ofertową z powykonawczą, liczy normy roboczogodzin, sprawdza wolne moce gniazd i proponuje „wyceniać”, „wyceniać pod warunkami” albo „nie wyceniać”. Użyj, gdy przychodzi zapytanie ofertowe lub przetarg i trzeba zdecydować, czy i na jakich warunkach wyceniać."
 license: MIT
 metadata:
   autor: Krzysztof Majchrzycki
